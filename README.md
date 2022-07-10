@@ -87,7 +87,7 @@ struct Article: Decodable {
 ```
 
 ## Extentions
-```swfit
+```swift
 import Foundation
 import RxSwift
 import RxCocoa
